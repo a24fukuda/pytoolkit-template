@@ -87,7 +87,7 @@ wheels = [
 
 [[package]]
 name = "pytoolkit-template"
-version = "0.1.0"
+version = "2025.7.12"
 source = { editable = "." }
 
 [package.dev-dependencies]
