@@ -1,8 +1,10 @@
 [project]
 name = "pytoolkit-template"
-version = "v2025.07.12"
+version = "v2025.07.16.01"
 description = "pytoolkit template"
 readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
 requires-python = ">=3.13"
 dependencies = []
 
